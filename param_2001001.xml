@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<parameters> 
+	<param name="YEAR">2001</param>//The calculation 
+	<param name="N8doy">0</param>//Nth 8day of the year 
+	<param name="LAI">F:\global500m_data\MUSES_LAI\2001\</param>//File storage directory of LAI data.
+	<param name="FPAR">F:\global500mdata\MUSES_FPAR\2001\</param>//File storage directory of FPAR data.
+	<param name="LAI_MAX">F:\global500mdata\MUSES_LAImax\2001\</param>//File storage directory of LAI_MAX data.
+	<param name="LANDCOVER">F:\global500mdata\MCD12Q1\2001\</param>//File storage directory of landcover data.
+	<param name="ERA5">F:\global500mdata\ERA5\</param>//File storage directory of ERA5 data.
+	<param name="LL_HV">F:\global500mdata\LL_HV\</param>//File storage directory or longitude and latitude data for each granule.
+	<param name="SRTM_DEMH">F:\global500mdata\HV_DEMTIF\</param>//File storage directory of 500 m resolution DEM. 
+	<param name="SRTM_DEML">F:\global500mdata\GlobalDEM025_1441_721.tif</param>//File storage directory of 0.25 degree resolution DEM. 
+	<param name="Output">F:\global500mdata\result\2001\</param>//File storage directory of output data.
+	<param name="root directory">F:\global500mdata\result\2001\</param>//File storage directory of the log file of program runing.
+</parameters> 
